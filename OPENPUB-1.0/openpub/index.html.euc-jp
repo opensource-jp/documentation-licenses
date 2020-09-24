@@ -1,0 +1,146 @@
+<BASE HREF="http://www.opensource.gr.jp/openpub/">
+<meta name=viewport content="width=device-width, initial-scale=1">
+<html>
+<body bgcolor="#FFFFFF" link="#003984" vlink="#002856" text="#000000">
+<div style="text-align:left;">
+<a href="/">TOP Page</a>
+</div><hr>
+
+<br><br>
+<center>
+<table border="0" cellpadding="5">
+<tr><td>
+<font face="arial, helvetica" size="-1">
+<center>
+<img src="http://www.opencontent.org/banner.jpg" alt="OpenContent">
+<br>
+<a href="http://www.opencontent.org/index.shtml">Home</a> |
+<a href="http://www.opencontent.org/openpub/">Open Publication License</a> 
+|
+<a href="http://works.opencontent.org/">Open Publication Works</a> |
+<a href="mailto:opal@opencontent.org"">Open Publication Authors' List</a> 
+</font>
+</center>
+
+<br><br>
+
+<font size="+1">
+<b>オープン・パブリケーション利用許諾契約書</b></font><br>
+<font size="-1"> ドラフト v1.0, 1999 年 6 月 (<a
+href="./openpub10.ja.txt">テキスト版</a>)
+
+<br>
+<b>日本語訳 2001 年 7 月 八田真行 <mhatta@debian.org> 訳</b>
+
+<br><br><br><b>I. 変更の有無にかかわらず要求される条件</b>
+
+<br><br>オープン・パブリケーションである著作物は、この利用許諾契約書の定める条件を厳守し、加えて本契約書を複製物に掲載するか、あるいは複製物中で(作者か出版者がオプションを選択した場合はそれらと共に)本契約書について言及する限り、その全体あるいは一部を複製、配布することができる。物理的、電子的な媒体は問わない。
+
+<br><br>本契約書への言及としてふさわしい形式は以下の通り:
+
+<blockquote>Copyright (c) &lt;年&gt; &lt;作者か被指名人の名前&gt;。この作品はオープン・パブリケーション利用許諾契約書(vX.Y かそれ以降)で指定された条件と制約に従う限り配布することができる(契約書の最新の版は現在のところ <a href="http://www.opencontent.org/openpub/">http://www.opencontent.org/openpub/</a>で入手可能である)。</blockquote>
+
+文書の作者か出版者によって選択されたオプションは、本契約書へ言及した直後に指定されなければならない(VI節を参照せよ)。
+
+<br><br>オープン・パブリケーション利用許諾契約書の下で利用が許可された作品は、商業的に再配布することができる。
+
+<br><br>一般的な(紙媒体の)書籍形式で出版する場合には、原作者と原出版者について列挙することが要求される。出版者と作者の名前を書籍の外側表面すべてに載せなければならない。書籍の外側表面全体には、原出版者名を著作物のタイトルと同じ大きさで、かつそのタイトルの所有者であることが分かるように載せなければならない。
+<br><br><br>
+
+<b>II. 著作権</b><br><br>
+
+それぞれのオープン・パブリケーションの著作権はその作者か被指名人が所有する。
+<br><br><br>
+
+<b>III. 本契約書の適用範囲</b><br><br>
+
+以下の利用条件は、特に文書中で指定されない限り、すべてのオープン・パブリケーション著作物で適用される。
+
+<br><br>オープン・パブリケーションである著作物かその一部を、同一の媒体上に他の著作物やプログラムと一緒に集めただけならば、本契約書が他の著作物にまで適用されることはない。しかし、そのような集積著作物には、オープン・パブリケーションである作品を含んでいるという通知と、適切な著作権表示を含めなければならない。
+
+<br><br>ライセンスの可分性について。本契約書の一部がいかなる司法的管轄においても施行できない場合であっても、契約書の残りの部分は依然として有効である。
+
+<br><br>無保証について。オープン・パブリケーション著作物は「あるがまま」で提供され、利用が許可される。商業適合性の保証や特定の目的への適合性、無侵害の保証など、いかなる種類の保証も、暗黙明示を問わず存在しない。
+<br><br><br>
+
+<b>IV. 変更を加えた場合に要求される条件</b>
+
+<br><br>翻訳、アンソロジー、編集物、文書の一部分など、この契約書によって保護された文書を変更したものに関しては、以下の条件を満たさなければならない:
+<ol>
+<li> 変更されたものはそう分かるようになっていなければならない。
+<li> 変更を加えた人物が特定できなければならず、変更した日時も記載しておかなければならない。
+<li> 原作者と原出版者への謝辞は、それが適切なものである限り、学問の世界での引用慣行に従って保たれなければならない。
+<li> 変更されていない元の文書の場所が特定できなければならない。
+<li> 変更して出来た文書を推奨宣伝する目的で、原作者の名前を許可なしに使ってはならない。
+</ol>
+<br>
+
+<b>V. 好ましい慣行の勧め</b>
+
+<br><br>本契約書で指定された必要条件に加え、再配布者は以下の実行を強く推奨、要請される:
+<ol>
+<li>もしオープン・パブリケーション著作物を印刷物ないし CD-ROM として配布するならば、作者に対して再配布したいという旨をあなたの原稿か媒体が確定稿になる少なくとも 30 日前までに電子メールで知らせ、作者が更新された文書を提供する機会を与えること。文書に変更を行ったならば、この通知でそれについて説明するべきである。
+
+<li>相当量の変更(削除含む)は文書中で明白にマーク付けされるか、文書の付録において説明されるべきである。
+
+<li>最後に、これは本契約書が強制するわけではないが、オープン・パブリケーションとして利用が許可された著作物の印刷物や CD-ROM の複写を、作者に無料で進呈するのは良い心がけである。
+</ol>
+<br>
+
+<b>VI. 利用許諾のオプション(選択権)</b>
+
+<br><br>オープン・パブリケーションとして利用が許可された文書の作者あるいは出版者は、本契約書の複写か本契約書への言及に言葉を追加することにより、ある種のオプションを選択することができる。これらのオプションは本契約書本文の一部とみなされ、派生物のライセンス(かそれへの言及)にも含められなければならない。
+
+<br><br>A. 作者が明確に許可を与えない限り、実質的に変更されたものの配布は禁止する。「実質的な変更」とは、文書の意味内容の変更として定義され、形式や誤植の修正などは除く。
+
+<br><br>この権利を行使するには、「この文書を実質的に変更した場合、その配布を著作権保有者の明確な許可なしに行うことを禁止する」という一文を本契約書の複写ないし本契約書への言及に追加する。
+
+<br><br>B. 著作権所有者から前もって許可を得ない限り、商業目的でこの著作物か派生物の全体または一部分を一般的な(紙媒体の)書籍形式で出版することを禁止する。
+
+<br><br>この権利を行使するには、「この著作物かその派生物の一般的な(紙媒体の)書籍形式での配布は、著作権所有者から前もって許可を得ない限り禁止する」という一文を本契約書の複写か本契約書への言及に追加する。
+<br><br><br>
+
+<b>オープン・パブリケーション ポリシー補遺:</b>
+
+<br><br>(以下はライセンスの一部とはみなされない)
+
+<br><br>オープン・パブリケーションである著作物は、Open Publication のホームページ <a href="http://works.opencontent.org/">http://works.opencontent.org/</a> からソース形式で入手可能である。
+
+<br><br>オープン・パブリケーションの作者は、オープン・パブリケーション著作物に自分なりの利用条件を課すこともできるが、その条件はオープン・パブリケーション利用許諾契約書よりも制約の厳しいものであってはならない。
+
+<br><br>オープン・パブリケーション利用許諾契約書について質問があれば、<a href="mailto:dw2@opencontent.org">David Wiley</a> か Open Publication Authors' List (<a href="mailto:opal@opencontent.org">opal@opencontent.org</a>) に電子メールで連絡してほしい。
+
+<br><br>Open Publication Authors' List に<b>参加する</b>には:<br>
+本文中に「subscribe」という語を含む電子メールを opal-request@opencontent.org に送る。
+<br><br>Open Publication Authors' List に<b>投稿する</b>には:<br>
+opal@opencontent.org に電子メールを送るか、単に以前の投稿に返信する。
+<br><br>
+Open Publication Authors' List から<b>脱退する</b>には:<br>
+本文中に「unsubscribe」という語を含む電子メールを opal-request@opencontent.org に送る。
+
+<br><br><br>
+<b>翻訳について:</b><br>
+正確を期して翻訳しましたが、誤訳や不備も多々あると思われます。あくまでも<a href="http://www.opencontent.org/openpub/">原文</a>が正式なもので、この訳は参考程度であることに留意してご利用下さい。この訳のために被った損害に関して、<b>訳者はいかなる責任も負いません</b>。<br>
+この訳に関する質問や提案は八田真行&lt;<a href="mailto:mhatta@debian.org">mhatta@debian.org</a>&gt;までお送りください。  
+
+<br><br><br>
+
+<font face="arial, helvetica" size="-1">
+<center>
+<br>
+<a href="http://www.opencontent.org/index.shtml">Home</a> |
+<a href="http://www.opencontent.org/openpub/">Open Publication License</a>
+|
+<a href="http://works.opencontent.org/">Open Publication Works</a> |
+<a href="mailto:opal@opencontent.org"">Open Publication Authors' List</a>
+
+<img src="http://www.opencontent.org/footer.jpg" alt="Thanks for Visiting OpenContent">
+</font>
+</center>
+
+
+</td></tr>
+</table>
+</body>
+</html> 
+
